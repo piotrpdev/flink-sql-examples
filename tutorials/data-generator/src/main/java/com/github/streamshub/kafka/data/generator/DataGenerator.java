@@ -90,7 +90,7 @@ public class DataGenerator implements Runnable {
                     }
                 }
 
-                Thread.sleep(3000);
+                Thread.sleep(1000);
 
             }
 
